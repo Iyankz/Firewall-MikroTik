@@ -21,3 +21,10 @@ Repositori ini berisi kumpulan script dan konfigurasi Firewall MikroTik yang dir
 #### Contoh perintah import jika file sudah diunggah ke router
 ```bash
 /import file-name=firewall-mikrotik.rsc
+```
+------
+## ⚖️ Lisensi
+Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE) untuk detailnya.
+
+## ⭐ Dukung Proyek Ini
+Jika repositori ini membantu memudahkan pekerjaan Anda atau bermanfaat bagi tim IT Anda, mohon berikan bintang (Star) ⭐ pada repositori ini sebagai bentuk dukungan bagi kami untuk terus mengembangkan script ini.
