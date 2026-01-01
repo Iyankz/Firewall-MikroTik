@@ -17,6 +17,7 @@ Repositori ini berisi kumpulan script dan konfigurasi Firewall MikroTik yang dir
 1.  Buka file `.rsc` yang ada di repositori ini.
 2.  Copy script dan paste ke dalam **New Terminal** di MikroTik.
 
+
+#### Contoh perintah import jika file sudah diunggah ke router
 ```bash
-# Contoh perintah import jika file sudah diunggah ke router
-/import file-name=Firewall-MikroTik.rsc
+/import file-name=firewall-mikrotik.rsc
